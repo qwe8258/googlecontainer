@@ -1,4 +1,5 @@
 |REPOSITORY  |                               TAG   |              IMAGE ID     |       CREATED   |          SIZE|
+|---  |                              ---   |              ---     |       ---   |          ---|
 |kaisawind/k8s-dns-dnsmasq-nanny-amd64  |    1.14.8     |         6258e10c35a0    |    21 minutes ago  |    41MB|
 |k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64|     1.14.8     |         6258e10c35a0  |      21 minutes ago |     41MB|
 |kaisawind/k8s-dns-sidecar-amd64   |         1.14.8  |           ae06f1add09d  |      About an hour ago |  42.2MB|
