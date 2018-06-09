@@ -1,3 +1,3 @@
-FROM k8s.gcr.io/pause-amd64
+FROM gcr.io/google_containers/pause-amd64:3.0
  
 MAINTAINER wind.kaisa@gmail.com
