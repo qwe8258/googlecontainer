@@ -1,3 +1,3 @@
-FROM k8s.gcr.io/google_containers/kube-scheduler-amd64
+FROM k8s.gcr.io/kube-scheduler-amd64:v1.10.4
  
 MAINTAINER wind.kaisa@gmail.com
