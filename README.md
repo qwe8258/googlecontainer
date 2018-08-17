@@ -16,3 +16,4 @@
 |registry                                |     latest    |
 |gcr.io/kubernetes-helm/tiller           |     v2.8.2    |
 |k8s.gcr.io/fluentd-elasticsearch        |     v2.2.0    |
+|k8s.gcr.io/elasticsearch                |     v6.2.5    |
