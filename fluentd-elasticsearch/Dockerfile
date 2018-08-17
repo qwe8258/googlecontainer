@@ -1,3 +1,3 @@
-FROM k8s.gcr.io/fluentd-elasticsearch:v2.0.4
+FROM k8s.gcr.io/fluentd-elasticsearch:v2.2.0
  
 MAINTAINER wind.kaisa@gmail.com
